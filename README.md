@@ -16,7 +16,7 @@
 
 ---
 
-## 📚 Things I Want to Learn
+## 📚 Things I Want to Know
 - 🤖 Machine Learning Algorithms (Regression, Classification, Clustering)  
 - 🧠 Deep Learning (Neural Networks, CNNs, RNNs, Transformers)  
 - 📊 Data Visualization & Feature Engineering  
