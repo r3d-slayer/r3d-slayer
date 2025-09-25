@@ -11,8 +11,8 @@
 - **Languages:** Python, C, JavaScript  
 - **Frontend:** React.js, HTML, CSS  
 - **Data Science:** NumPy, Pandas, Matplotlib, EDA  
-- **Networking:** DNS, IPv4/6, HTTP/HTTPS, TCP/IP, UDP  
-- **Tools:** GitHub, Jupyter, Google Colab  
+- **Networking:** DNS, IPv4/6, HTTP/HTTPS, TCP/IP, UDP
+- **Marketing:** Google Ads, Meta Ads
 
 ---
 
