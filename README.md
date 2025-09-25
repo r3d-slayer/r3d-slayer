@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Shivam Tanwar  
 
 🎓 Electronics and Computer Science Student | 💻 Frontend Developer | 📊 Exploring Data Science  
-🌱 Currently learning: Machine Learning & Deep Learning  
-🚀 Passionate about building efficient, scalable, and impactful technology solutions  
+🌱 Currently learning: Data Science
+🚀 Passionate about everything 
+🌍 "Engineering" === "Exploration"
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, C, JavaScript  
 - **Frontend:** React.js, HTML, CSS  
-- **Backend:** Node.js, Express.js, REST APIs  
 - **Data Science:** NumPy, Pandas, Matplotlib, EDA  
 - **Networking:** DNS, IPv4/6, HTTP/HTTPS, TCP/IP, UDP  
 - **Tools:** GitHub, Jupyter, Google Colab  
