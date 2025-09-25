@@ -7,12 +7,22 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Things I Know 
 - **Languages:** Python, C, JavaScript  
 - **Frontend:** React.js, HTML, CSS  
 - **Data Science:** NumPy, Pandas, Matplotlib, EDA  
 - **Networking:** DNS, IPv4/6, HTTP/HTTPS, TCP/IP, UDP  
 - **Tools:** GitHub, Jupyter, Google Colab  
+
+---
+
+## 📚 Things I Want to Learn
+- 🤖 Machine Learning Algorithms (Regression, Classification, Clustering)  
+- 🧠 Deep Learning (Neural Networks, CNNs, RNNs, Transformers)  
+- 📊 Data Visualization & Feature Engineering  
+- 🔗 Model Deployment (Flask, FastAPI, Streamlit)  
+- ☁️ Cloud & MLOps (AWS, Docker, CI/CD for ML)  
+- 🧩 Advanced Libraries (Scikit-learn, TensorFlow, PyTorch)  
 
 ---
 
