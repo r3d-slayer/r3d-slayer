@@ -10,7 +10,7 @@
 ## 🛠️ Things I Know 
 - **Languages:** Python, C, JavaScript  
 - **Frontend:** React.js, HTML, CSS  
-- **Data Science:** NumPy, Pandas, Matplotlib, EDA, MySql
+- **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, EDA, MySql
 - **Networking:** DNS, IPv4/6, HTTP/HTTPS, TCP/IP, UDP
 - **Marketing:** Google Ads, Meta Ads
 
