@@ -13,13 +13,13 @@
 - **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, EDA, MySql
 - **Networking:** DNS, IPv4/6, HTTP/HTTPS, TCP/IP, UDP
 - **Marketing:** Google Ads, Meta Ads
+- **Data Visualization & Feature Engineering**
 
 ---
 
 ## 📚 Things I Want to Know
 - 🤖 Machine Learning Algorithms (Regression, Classification, Clustering)  
 - 🧠 Deep Learning (Neural Networks, CNNs, RNNs, Transformers)  
-- 📊 Data Visualization & Feature Engineering  
 - 🔗 Model Deployment (Flask, FastAPI, Streamlit)  
 - ☁️ Cloud & MLOps (AWS, Docker, CI/CD for ML)  
 - 🧩 Advanced Libraries (Scikit-learn, TensorFlow, PyTorch)  
