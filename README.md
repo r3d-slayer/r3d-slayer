@@ -14,11 +14,12 @@
 - **Networking:** DNS, IPv4/6, HTTP/HTTPS, TCP/IP, UDP
 - **Marketing:** Google Ads, Meta Ads
 - **Data Visualization & Feature Engineering**
-- 🤖 Machine Learning Algorithms (Regression, Classification, Clustering)  
+- 🤖 Machine Learning Algorithms (Regression, Classification, Clustering)
+- 🧠 Deep Learning (Neural Networks, CNNs, RNNs, Transformers)  
 ---
 
 ## 📚 Things I Want to Know
-- 🧠 Deep Learning (Neural Networks, CNNs, RNNs, Transformers)  
+
 - 🔗 Model Deployment (Flask, FastAPI, Streamlit)  
 - ☁️ Cloud & MLOps (AWS, Docker, CI/CD for ML)  
 - 🧩 Advanced Libraries (Scikit-learn, TensorFlow, PyTorch)  
