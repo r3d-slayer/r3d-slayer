@@ -15,14 +15,15 @@
 - **Marketing:** Google Ads, Meta Ads
 - **Data Visualization & Feature Engineering**
 - 🤖 Machine Learning Algorithms (Regression, Classification, Clustering)
-- 🧠 Deep Learning (Neural Networks, CNNs, RNNs, Transformers)  
+- 🧠 Deep Learning (Neural Networks, CNNs, RNNs, Transformers)
+-  🧩 Advanced Libraries (Scikit-learn, TensorFlow, Keras)  
 ---
 
 ## 📚 Things I Want to Know
 
 - 🔗 Model Deployment (Flask, FastAPI, Streamlit)  
 - ☁️ Cloud & MLOps (AWS, Docker, CI/CD for ML)  
-- 🧩 Advanced Libraries (Scikit-learn, TensorFlow, PyTorch)  
+
 
 ---
 
